@@ -1,0 +1,44 @@
+#img-div{
+    background-color: #e56bf0;
+    border:10px solid #000000;
+    margin-bottom: 100px;
+    border-radius: 50px;
+}
+body{
+    background-color: rgb(240, 241, 123);
+}
+img {
+    box-shadow: 5px 10px 8px #fad6d6;
+    padding: 0%;
+    width:100%;
+    align-content: center;
+    border-radius: 50px;
+    height: auto;
+    margin: auto;
+}
+
+#img-caption{
+    margin:5px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:larger;
+    color: #141407;
+}
+
+#title{
+    margin-top: 50px;
+    text-align: center;
+    background-color: rgb(240, 241, 123);
+}
+
+#para{
+    margin-top: 15px;
+    text-align: center;
+    background-color: rgb(240, 241, 123);
+}
+
+#tribute-info{
+    text-align: center;
+    background-color: rgb(150, 228, 98);
+    border-radius: 50px;
+}
